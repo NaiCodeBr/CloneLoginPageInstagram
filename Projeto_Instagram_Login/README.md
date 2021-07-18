@@ -1,4 +1,4 @@
-​                   **RENCOSTRUINDO PÁGINA DE LOGIN DO INSTAGRAM** 
+​                   **RECOSTRUINDO PÁGINA DE LOGIN DO INSTAGRAM** 
 
 *DESCRIÇÃO*:
 
